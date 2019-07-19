@@ -4,3 +4,8 @@ Here are the source codes of the programs developed for the curricular component
 
 
 Aqui se encontra os códigos fonte dos programas desenvolvidos para o componente curricular EXA854 - MI-Algoritmos no primeiro periodo do curso de Engenharia de Computação na Universidade Estadual de Feira de Santana
+
+---
+
+    [x] Descrição ruim traduzida com google tradutor :D
+    [x] Não saber fazer caixinhas de seleção :(
